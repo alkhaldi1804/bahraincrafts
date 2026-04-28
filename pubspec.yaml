@@ -1,0 +1,28 @@
+name: bahraincrafts
+description: A new Flutter project.
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+  animations: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/food.png
+    - assets/images/fakhar.jpg
+    - assets/images/scarf.jpg
+    - assets/images/dates.jpg
+    - assets/images/header_bh.jpeg
